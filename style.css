@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+}
+h1{
+    color:#3AA6B9;
+    text-align:center;
+    font-family: 'Belanosima', sans-serif;
+    font-size:100px;
+}
+header{
+    width:100%;
+}
+.logo
+{
+   display:flex;
+   align-items: center;
+   justify-content: center;
+}
+img{
+    
+    height:300px;
+    width:400px;
+}
+.intro-para
+{
+    color:aliceblue;
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.table
+{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color:aliceblue;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding-top:100px;
+
+}
+.table-heading-name
+{
+    float: left;
+}
+td{
+    padding: 10px 35px 10px 35px;
+}
+a
+{
+    color:aliceblue
+}
+td{
+   text-align:left;
+}
